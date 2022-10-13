@@ -1,0 +1,9 @@
+ /ios/Pods/
+ ios/Podfile.lock
+ yarn.lock
+build/
+.idea
+.gradle
+local.properties
+*.iml
+node_modules
